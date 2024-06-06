@@ -1,6 +1,47 @@
-div{
-    margin-top: 47vh;
+@media screen and (min-width:996px){
+.navbar-container{
+    margin-left:40vh ;
+}
+}
+.nav-heading{
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 20px;
+    color:#f63a53 !important;
+}
+.k24{
+    font-size: small;
+    font-weight: 500;
+    color:white;
+}
+.li-item{
+    margin: 0 20px;
+    font-weight: 700;
+}
+.home-container{
+    background-image: url('https://res.cloudinary.com/dwch0edff/image/upload/v1717671657/disc-5_laxqju.jpg');
+    background-size: cover;
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    min-height:93vh;
+}
+.home-heading{
+    color:#f63a53;
+    text-shadow: 2px 2px 4px rgb(77, 34, 34);
+
+
+}
+
+.home-para{
+    color:white;
+    text-shadow: 4px 4px 8px black;
+    font-weight: 500;
+}
+.button{
+    color:#ffffff;
+    border-radius: 28px;
+    border-width: 1.5px;
+    padding: 10px 35px;
 }
