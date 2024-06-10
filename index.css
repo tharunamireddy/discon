@@ -258,3 +258,20 @@
     text-decoration: none;
     cursor: pointer;
 }
+.summary-details{
+    display: flex;
+    padding: 30px;
+
+}
+.summary{
+    color:#f50136;
+
+}
+.details{
+    min-width:50vw;
+
+}
+.list{
+    width:40vw;
+    color:#838383;
+}
