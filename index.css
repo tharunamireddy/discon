@@ -18,14 +18,24 @@
     margin: 0 20px;
     font-weight: 700;
 }
+.h{
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    width:98vw;
+}
+
+.details-botttom{
+    margin-bottom: 40vh;
+}
 .home-container{
-    background-image: url('https://res.cloudinary.com/dwch0edff/image/upload/v1717671657/disc-5_laxqju.jpg');
-    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height:93vh;
+    margin: 0;
+    padding-top: -40px;
 }
 .home-heading{
     color:#f63a53;
