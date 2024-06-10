@@ -283,3 +283,9 @@
         min-width:30vw;
     }
 }
+
+.li-items{
+    color:#000;
+    font-weight: 700;
+    list-style: none;
+}
