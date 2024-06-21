@@ -299,3 +299,6 @@
     font-weight: 700;
     list-style: none;
 }
+.speakers{
+    list-style-type:disc;
+}
