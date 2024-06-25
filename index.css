@@ -302,3 +302,24 @@
 .speakers{
     list-style-type:disc;
 }
+.about-tabs .active {
+    background-color: #fff;
+    border: 1px solid #f63a53;
+}
+
+.about-tabs li {
+    list-style: none;
+    padding: 9px;
+    background: #f63a53;
+    text-decoration: none;
+    border-bottom: 1px solid #ccc;
+}
+.about-tabs .active a {
+    color: #f63a53;
+    display: block;
+}
+
+.about-tabs li a {
+    color: #fff;
+    display: block;
+}
