@@ -329,6 +329,7 @@
 .about-tabs li:hover{
     background-color: #f63a53;
     border: 1px solid #f63a53;
+    color: #fff;
 }
 .about-tabs {
     padding: 0px;
